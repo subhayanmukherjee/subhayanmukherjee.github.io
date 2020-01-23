@@ -1,8 +1,8 @@
-## Projects | Theses { [Masters](Subhayan_NITK_Thesis_Oct14.pdf), PhD (_under review_) } | [Resume](Subhayan_UofA.pdf)
+## **Projects** | Theses { [Masters](Subhayan_NITK_Thesis_Oct14.pdf), PhD (_under review_) } | [Resume](Subhayan_UofA.pdf)
 
 ---
 
-### Click on project title to view description.
+### Click on each project title to view its description.
 
 <details>
   <summary>Image Quality Assessment using Deep Learning (Opinion-unaware, Distortion-unaware, No-reference)</summary>
