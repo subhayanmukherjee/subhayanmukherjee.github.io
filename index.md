@@ -18,7 +18,7 @@
   <p>Implemented in Keras with Tensorflow-GPU back-end and Python, supported by the numpy, scipy, scikit-image, scikit-learn and matplotlib libraries in an Anaconda environment.</p>
 </details>
 <p style="font-style:italic;">
-“CNN-Based InSAR Coherence Classification”, 17th IEEE Sensors, Oct 28-31, 2018, New Delhi, India
+“CNN-Based InSAR Coherence Classification”, 17th IEEE Sensors, Oct 28-31, 2018, New Delhi, India (<a href="https://arxiv.org/pdf/2001.06956">preprint</a> | <a href="https://ieeexplore.ieee.org/document/8589742">published</a>)
 </p>
 <p style="font-style:italic;">
 “CNN-based InSAR Denoising and Coherence Metric”, 17th IEEE Sensors, Oct 28-31, 2018, New Delhi, India
