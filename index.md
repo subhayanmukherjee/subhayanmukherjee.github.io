@@ -7,7 +7,8 @@
   <p>Algorithm-based Image Quality Assessment outputs a quality score for a given (possibly distorted) input image to mimic the response of a human observer. Traditional IQA required a distortion-free version of the input image (full-reference), knowledge of types of possible distortions (distortion-aware) or training on subjective opinion scores (opinion-aware) and was based on hand-crafted features. This project proposes and validates the first ever method to overcome all of these limitations using learned features.</p>
 </details>
 “Potential of deep features for opinion-unaware, distortion-unaware, no-reference image quality assessment”, International Conference on Smart Multimedia (Springer), Dec 16-18, 2019, San Diego, USA.
-
+ 
+ 
 <details>
   <summary>InSAR Image-based Wide Area Monitoring using Deep / Machine Learning</summary>
   <p>Wide Area Monitoring System: Combining Machine Learning, Deep Learning & Computer Vision techniques to enhance the accuracy and speed of large scale motion mapping of ground displacement caused by groundwater extraction, mining, oil & gas, urban development etc. from Inteferometric Synthetic Aperture Radar (InSAR) satellite images. Developed first ever Convolutional Neural Network-based filtering and point-wise signal quality quantification methodology for InSAR, and further improved it to CNN-guided generative modeling-based approach. Implemented in Keras with Tensorflow-GPU back-end and Python, supported by the numpy, scipy, scikit-image, scikit-learn and matplotlib libraries in an Anaconda environment.</p>
