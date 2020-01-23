@@ -1,4 +1,4 @@
-## Projects | Theses { [Masters](https://jekyllrb.com/), PhD (_under review_) } | [Resume](https://jekyllrb.com/)
+## Projects | Theses { [Masters](Subhayan_NITK_Thesis_Oct14.pdf), PhD (_under review_) } | [Resume](Subhayan_UofA.pdf)
 
 ### Click on project name to view description.
 
@@ -17,6 +17,8 @@
 </details>
 <p style="font-style:italic;">
 “CNN-Based InSAR Coherence Classification”, 17th IEEE Sensors, Oct 28-31, 2018, New Delhi, India
+</p>
+<p style="font-style:italic;">
 “CNN-based InSAR Denoising and Coherence Metric”, 17th IEEE Sensors, Oct 28-31, 2018, New Delhi, India
 </p>
 
