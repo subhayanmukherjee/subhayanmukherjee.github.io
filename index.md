@@ -2,7 +2,7 @@
 
 ---
 
-### Click on project name to view description.
+### Click on project title to view description.
 
 <details>
   <summary>Image Quality Assessment using Deep Learning (Opinion-unaware, Distortion-unaware, No-reference)</summary>
