@@ -1,8 +1,9 @@
-## **Projects** | Theses { [Masters](Subhayan_NITK_Thesis_Oct14.pdf), PhD (_under review_) } | [Resume](Subhayan_UofA.pdf)
+## **Projects** | Theses { [Masters](Subhayan_NITK_Thesis_Oct14.pdf), PhD (_under review_) } | [Resume](Subhayan_UofA.pdf) | [Patent](https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10223774&IDKey=42CB8E806635%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%2Fnetahtml%2FPTO%2Fsrchnum.html%2526r%3D1%2526f%3DG%2526l%3D50%2526d%3DPALL%2526s1%3D10223774.PN.%2526OS%3D%2526RS%3D)
 
 ---
 
 ### Click on each project title to view its description.
+##### Note: I am the **first author** in all project publications.
 
 <details>
   <summary>Image Quality Assessment using Deep Learning (Opinion-unaware, Distortion-unaware, No-reference)</summary>
