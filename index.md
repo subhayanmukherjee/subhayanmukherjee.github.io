@@ -1,5 +1,7 @@
 ## Projects | Theses { [Masters](Subhayan_NITK_Thesis_Oct14.pdf), PhD (_under review_) } | [Resume](Subhayan_UofA.pdf)
 
+---
+
 ### Click on project name to view description.
 
 <details>
