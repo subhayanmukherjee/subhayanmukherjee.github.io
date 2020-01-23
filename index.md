@@ -15,8 +15,10 @@
   <p>Wide Area Monitoring System: Combining Machine Learning, Deep Learning & Computer Vision techniques to enhance the accuracy and speed of large scale motion mapping of ground displacement caused by groundwater extraction, mining, oil & gas, urban development etc. from Inteferometric Synthetic Aperture Radar (InSAR) satellite images. Developed first ever Convolutional Neural Network-based filtering and point-wise signal quality quantification methodology for InSAR, and further improved it to CNN-guided generative modeling-based approach.</p>
   <p>Implemented in Keras with Tensorflow-GPU back-end and Python, supported by the numpy, scipy, scikit-image, scikit-learn and matplotlib libraries in an Anaconda environment.</p>
 </details>
+<p style="font-style:italic;">
 “CNN-Based InSAR Coherence Classification”, 17th IEEE Sensors, Oct 28-31, 2018, New Delhi, India
 “CNN-based InSAR Denoising and Coherence Metric”, 17th IEEE Sensors, Oct 28-31, 2018, New Delhi, India
+</p>
 
 <details>
   <summary>Image-based parameter-tuning of a noise filter using Deep Learning</summary>
