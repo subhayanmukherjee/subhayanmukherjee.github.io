@@ -3,9 +3,9 @@
 ### Image Quality Assessment using Deep Learning (Opinion-unaware, Distortion-unaware, No-reference)
 
 “Potential of deep features for opinion-unaware, distortion-unaware, no-reference image quality assessment”, International Conference on Smart Multimedia (Springer), Dec 16-18, 2019, San Diego, USA
-```markdown
+<p style="text-align:right">
 Algorithm-based Image Quality Assessment outputs a quality score for a given (possibly distorted) input image to mimic the response of a human observer. Traditional IQA required a distortion-free version of the input image (full-reference), knowledge of types of possible distortions (distortion-aware) or training on subjective opinion scores (opinion-aware) and was based on hand-crafted features. This project proposes and validates the first ever method to overcome all of these limitations using learned features.
-```
+</p>
 
 - “CNN-based Real-Time Parameter Tuning for Optimizing Denoising Filter Performance”, 16th ICIAR (Springer), 27th to 29th August 2019, University of Waterloo, Canada
 
