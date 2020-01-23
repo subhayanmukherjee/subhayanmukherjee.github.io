@@ -3,7 +3,7 @@
 ---
 
 ### Click on each project title to view its description.
-##### **Note**: I am the **first author** in all project publications.
+##### **Note**: I am the **first author** in all project publications listed below.
 
 <details>
   <summary>Image Quality Assessment using Deep Learning (Opinion-unaware, Distortion-unaware, No-reference)</summary>
