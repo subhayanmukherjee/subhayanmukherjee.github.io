@@ -72,5 +72,5 @@
 “Depth-based Selective Blurring in Stereo Images Using Accelerated Framework”, 3D Research (ESCI Indexed, Springer, CiteScore: 1.02) Vol 5, Issue 3, September 2014 (<a href="https://arxiv.org/pdf/2001.07809">preprint</a> | <a href="https://doi.org/10.1007/s13319-014-0014-7">published</a>)
 </p>
 <p style="font-style:italic;">
-“A Hybrid Algorithm for Disparity Calculation from Sparse Disparity Estimates Based on Stereo Vision”, 10th IEEE International Conference on Signal Processing and Communications (SPCOM), Indian Institute of Science (IISc), Bangalore, India, 22nd to 25th July 2014 (<a href="https://arxiv.org/pdf/2001.06967">preprint</a> | <a href="https://doi.org/10.1109/SPCOM.2014.6983949">published</a>)
+“A Hybrid Algorithm for Disparity Calculation from Sparse Disparity Estimates Based on Stereo Vision”, 10th IEEE International Conference on Signal Processing and Communications (SPCOM), Indian Institute of Science (IISc), Bangalore, India, 22nd to 25th July 2014 (<a href="https://arxiv.org/pdf/2001.06967">preprint</a> | <a href="https://doi.org/10.1109/SPCOM.2014.6983949">published</a> | <a href="https://github.com/subhayanmukherjee/sparsestereo">code</a>)
 </p>
