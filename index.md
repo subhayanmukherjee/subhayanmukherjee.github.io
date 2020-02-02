@@ -63,13 +63,13 @@
   <p>5. Design & validation of novel entropy-based confidence measure for stereo error detection.</p>
 </details>
 <p style="font-style:italic;">
-“Highlighting Objects of Interest in an Image by Integrating Saliency and Depth”, 23rd IEEE International Conference on Image Processing (ICIP 2016), Phoenix, USA, 25th to 28th September 2016 (<a href="https://arxiv.org/pdf/1711.10515">preprint</a> | <a href="https://doi.org/10.1109/ICIP.2016.7532308">published</a>)
+“Highlighting Objects of Interest in an Image by Integrating Saliency and Depth”, 23rd IEEE International Conference on Image Processing (ICIP 2016), Phoenix, USA, 25th to 28th September 2016 (<a href="https://arxiv.org/pdf/1711.10515">preprint</a> | <a href="https://doi.org/10.1109/ICIP.2016.7532308">published</a> | <a href="https://github.com/subhayanmukherjee/autoroi">code</a>)
 </p>
 <p style="font-style:italic;">
 “Entropy-difference based Stereo Error Detection”, 12th IEEE Image Video and Multidimensional Signal Processing (IVMSP 2016) workshop, Bordeaux, France, 11th and 12th July 2016 (<a href="https://arxiv.org/pdf/1711.10412">preprint</a> | <a href="https://doi.org/10.1109/IVMSPW.2016.7528177">published</a>)
 </p>
 <p style="font-style:italic;">
-“Depth-based Selective Blurring in Stereo Images Using Accelerated Framework”, 3D Research (ESCI Indexed, Springer, CiteScore: 1.02) Vol 5, Issue 3, September 2014 (<a href="https://arxiv.org/pdf/2001.07809">preprint</a> | <a href="https://doi.org/10.1007/s13319-014-0014-7">published</a>)
+“Depth-based Selective Blurring in Stereo Images Using Accelerated Framework”, 3D Research (ESCI Indexed, Springer, CiteScore: 1.02) Vol 5, Issue 3, September 2014 (<a href="https://arxiv.org/pdf/2001.07809">preprint</a> | <a href="https://doi.org/10.1007/s13319-014-0014-7">published</a> | <a href="https://github.com/subhayanmukherjee/depthblur">code</a>)
 </p>
 <p style="font-style:italic;">
 “A Hybrid Algorithm for Disparity Calculation from Sparse Disparity Estimates Based on Stereo Vision”, 10th IEEE International Conference on Signal Processing and Communications (SPCOM), Indian Institute of Science (IISc), Bangalore, India, 22nd to 25th July 2014 (<a href="https://arxiv.org/pdf/2001.06967">preprint</a> | <a href="https://doi.org/10.1109/SPCOM.2014.6983949">published</a> | <a href="https://github.com/subhayanmukherjee/sparsestereo">code</a>)
