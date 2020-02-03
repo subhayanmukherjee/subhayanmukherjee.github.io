@@ -41,7 +41,7 @@
   <p>Injury to the white matter and periventricular regions in infant brains may serve as early predictors of developmental deficits. This project detects WMI from T1 MR images of pre-term infants, which is specially challenging due to lack of brain atlas, small size of the brain, short scan duration and their constant movement during scanning. This creates very low-resolution and extremely noisy MR images, making this project challenging. I developed the first fully automated WMI detection method that does not require brain atlas and heuristically approximates tissue segmentation, greatly reducing computation.</p>
 </details>
 <p style="font-style:italic;">
-“A Fast Segmentation-free Fully Automated Approach to White Matter Injury Detection in Preterm Infants”, Medical and Biological Engg. & Computing (SCI Indexed, Springer, Impact Factor: 2.04) Vol 57, Issue 1, pp 71-87 (<a href="https://arxiv.org/pdf/1807.06604">preprint</a> | <a href="https://doi.org/10.1007/s11517-018-1829-9">published</a>)
+“A Fast Segmentation-free Fully Automated Approach to White Matter Injury Detection in Preterm Infants”, Medical and Biological Engg. & Computing (SCI Indexed, Springer, Impact Factor: 2.04) Vol 57, Issue 1, pp 71-87 (<a href="https://arxiv.org/pdf/1807.06604">preprint</a> | <a href="https://doi.org/10.1007/s11517-018-1829-9">published</a> | <a href="https://github.com/subhayanmukherjee/fastwmi">code</a>)
 </p>
 
 <details>
