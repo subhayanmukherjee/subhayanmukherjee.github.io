@@ -6,7 +6,7 @@
 ##### **Note**: I am the **first author** in all project publications listed below.
 
 <details>
-  <summary>Image Quality Assessment using Deep Learning (Opinion-unaware, Distortion-unaware, No-reference)</summary>
+  <summary><b>Image Quality Assessment using Deep Learning (Opinion-unaware, Distortion-unaware, No-reference)</b></summary>
   <p>Algorithm-based Image Quality Assessment outputs a quality score for a given (possibly distorted) input image to mimic the response of a human observer. Traditional IQA required a distortion-free version of the input image (full-reference), knowledge of types of possible distortions (distortion-aware) or training on subjective opinion scores (opinion-aware) and was based on hand-crafted features. This project proposes and validates the first ever method to overcome all of these limitations using learned features.</p>
 </details>
 <p style="font-style:italic;">
@@ -14,7 +14,7 @@
 </p>
 
 <details>
-  <summary>InSAR Image-based Wide Area Monitoring using Deep / Machine Learning</summary>
+  <summary><b>InSAR Image-based Wide Area Monitoring using Deep / Machine Learning</b></summary>
   <p>Wide Area Monitoring System: Combining Machine Learning, Deep Learning & Computer Vision techniques to enhance the accuracy and speed of large scale motion mapping of ground displacement caused by groundwater extraction, mining, oil & gas, urban development etc. from Inteferometric Synthetic Aperture Radar (InSAR) satellite images. Developed first ever Convolutional Neural Network-based filtering and point-wise signal quality quantification methodology for InSAR, and further improved it to CNN-guided generative modeling-based approach.</p>
   <p>Implemented in Keras with Tensorflow-GPU back-end and Python, supported by the numpy, scipy, scikit-image, scikit-learn and matplotlib libraries in an Anaconda environment.</p>
 </details>
@@ -29,7 +29,7 @@
 </p>
 
 <details>
-  <summary>Image-based parameter-tuning of a noise filter using Deep Learning</summary>
+  <summary><b>Image-based parameter-tuning of a noise filter using Deep Learning</b></summary>
   <p>This project explores a new direction in explainable Artificial Intelligence (AI). Most state-of-art deep-learning based noise removal algorithms involve some form of neural networks trained end-to-end (input: noisy image, output: clean image). Such methods are inexplicable "black-boxes" since we do not have a clear understanding of their inner workings and how change in input data distribution can affect their denoising performance. In contrast, this project proposes and validates a CNN-based method that tunes the parameter of a computer vision based (fully explainable) denoising algorithm based only on the noisy input image. Thus, we get the best of both worlds: explain-ability of vision and learning-based regression.</p>
 </details>
 <p style="font-style:italic;">
@@ -37,7 +37,7 @@
 </p>
 
 <details>
-  <summary>White Matter Injury detection in pre-term infants' T1 MR Images</summary>
+  <summary><b>White Matter Injury detection in pre-term infants' T1 MR Images</b></summary>
   <p>Injury to the white matter and periventricular regions in infant brains may serve as early predictors of developmental deficits. This project detects WMI from T1 MR images of pre-term infants, which is specially challenging due to lack of brain atlas, small size of the brain, short scan duration and their constant movement during scanning. This creates very low-resolution and extremely noisy MR images, making this project challenging. I developed the first fully automated WMI detection method that does not require brain atlas and heuristically approximates tissue segmentation, greatly reducing computation.</p>
 </details>
 <p style="font-style:italic;">
@@ -45,7 +45,7 @@
 </p>
 
 <details>
-  <summary>Mobile GPU-friendly coding artifact reduction in High Dynamic Range images</summary>
+  <summary><b>Mobile GPU-friendly coding artifact reduction in High Dynamic Range images</b></summary>
   <p>Dolby Vision codecs encapsulate traditional ones like AVC/HEVC, and provide HDR capability. However, banding artefacts need to be handed while displaying SDR content on HDR screens. Computationally constrained mobile GPU environments restrict use of traditional filtering-based methods. I developed a dithering-based solution. It operates on individual pixels and modulates noise injection based on slope of Inverse Tone Mapping curve. Use cases also include those where the input is quantized due to bit-depth conversion, but the unquantized original version is unavailable. In another project, I approximated the tone-mapping curve (via interpolation) using fewer number of points without any perceptible quality degradation. This approximation resulted in a four-fold improvement in performance of the respective HDR processing pipeline. I conducted subjective experiments on the Dolby Pulsar professional reference monitor to validate my proposed methods.</p>
   <p>Simulations/prototyping done in Matlab and implementations in the C programming language.</p>
 </details>
@@ -54,7 +54,7 @@
 </p>
 
 <details>
-  <summary>Versatile Depth-of-Field effects and Image Auto-ROI</summary>
+  <summary><b>Versatile Depth-of-Field effects and Image Auto-ROI</b></summary>
   <p>This is somewhat similar in purpose to the "Lens Blur" feature in the Google Camera android app, though the methodology and input modality are completely different:</p>
   <p>1. Formulation of a novel stereo disparity estimation algorithm based on sparse disparity estimates. Here, only disparities of segment boundaries of the left image are estimated, which form the basis for interpolating the remaining disparities. Thus, the stereo matching process becomes time-efficient.</p>
   <p>2. Part of the computationally intensive tasks are offloaded to GPUs using Java-APARAPI, while the rest are dispatched to the multiple cores of the CPU using the Java Thread Pool (JTP). This results in parallel processing and reduced execution time.</p>
