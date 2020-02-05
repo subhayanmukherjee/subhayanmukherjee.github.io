@@ -33,7 +33,7 @@
   <p>This project explores a new direction in explainable Artificial Intelligence (AI). Most state-of-art deep-learning based noise removal algorithms involve some form of neural networks trained end-to-end (input: noisy image, output: clean image). Such methods are inexplicable "black-boxes" since we do not have a clear understanding of their inner workings and how change in input data distribution can affect their denoising performance. In contrast, this project proposes and validates a CNN-based method that tunes the parameter of a computer vision based (fully explainable) denoising algorithm based only on the noisy input image. Thus, we get the best of both worlds: explain-ability of vision and learning-based regression.</p>
 </details>
 <p style="font-style:italic;">
-“CNN-based Real-Time Parameter Tuning for Optimizing Denoising Filter Performance”, 16th ICIAR (Springer), 27th to 29th August 2019, University of Waterloo, Canada (<a href="https://arxiv.org/pdf/2001.06961">preprint</a> | <a href="https://doi.org/10.1007/978-3-030-27202-9_10">published</a>)
+“CNN-based Real-Time Parameter Tuning for Optimizing Denoising Filter Performance”, 16th ICIAR (Springer), 27th to 29th August 2019, University of Waterloo, Canada (<a href="https://arxiv.org/pdf/2001.06961">preprint</a> | <a href="https://doi.org/10.1007/978-3-030-27202-9_10">published</a> | <a href="https://github.com/subhayanmukherjee/deeptune">code</a>)
 </p>
 
 <details>
