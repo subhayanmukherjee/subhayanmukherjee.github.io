@@ -14,7 +14,7 @@
 </p>
 
 <details>
-  <summary><b>InSAR Image-based Wide Area Monitoring using Deep / Machine Learning</b></summary>
+  <summary><b>InSAR Image-based Wide Area Monitoring using Deep / Machine Learning and Computer Vision</b></summary>
   <p>Wide Area Monitoring System: Combining Machine Learning, Deep Learning & Computer Vision techniques to enhance the accuracy and speed of large scale motion mapping of ground displacement caused by groundwater extraction, mining, oil & gas, urban development etc. from Inteferometric Synthetic Aperture Radar (InSAR) satellite images. Developed first ever Convolutional Neural Network-based filtering and point-wise signal quality quantification methodology for InSAR, and further improved it to CNN-guided generative modeling-based approach.</p>
   <p>Implemented in Keras with Tensorflow-GPU back-end and Python, supported by the numpy, scipy, scikit-image, scikit-learn and matplotlib libraries in an Anaconda environment.</p>
 </details>
