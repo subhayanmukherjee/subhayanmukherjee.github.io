@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to Subhayan’s homepage!
 description: Project summaries with links to related First author publications / preprints (free), Codes, Patent, Theses, Resume, and Citations.
+plugins:
+  - jekyll-seo-tag
