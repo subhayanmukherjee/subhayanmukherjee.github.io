@@ -2,7 +2,7 @@
 
 ---
 
-#### Click on each <font color="black"><strong>project title</strong></font> to view its description.
+#### Click on each <font color="#A9A9A9"><strong>project title</strong></font> to view its description.
 ##### **Note**: I am the **first author** in all project publications listed below.
 
 <details>
