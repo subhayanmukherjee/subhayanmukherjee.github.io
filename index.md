@@ -3,7 +3,7 @@
 ---
 
 #### **Click** on each <font color="#606c71"><strong>project title</strong></font> to view its description.
-#### **Note**: I am the _**1st author&nbsp;**_ in all project publications listed below.
+#### **Note**: I am the _**1st author**_&nbsp; in all project publications listed below.
 
 <details>
   <summary><b>Image Quality from Deep Learning ( Opinion-&-Distortion-Unaware, No-reference IQA )</b></summary>
